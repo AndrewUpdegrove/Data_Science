@@ -1,0 +1,33 @@
+[
+  {
+    "Columns": "Date",
+    "Datatype": "Date",
+    "Format": "YYYY-MM-DD",
+  },
+  {
+    "Columns": "Time Recording Started",
+    "Datatype": "Timestamp",
+    "Format": "hh:mm",
+    "Standard": "ISO-8601",
+  },
+  {
+    "Columns": "Time taken to eat",
+    "Datatype": "Duration",
+    "Format": "M[n]S[n]"
+    "Standard": "ISO-8601",
+  },
+  {
+    "Columns": "Meal",
+    "Datatype": "Varchar",
+    "Values": "Dinner, Breakfast",
+  },
+  {
+    "Columns": "Recorded by",
+    "Datatype": "Varchar",
+    "Values": "Andrew, Vincent",
+  },
+  {
+    "Columns": "Notes",
+    "Datatype": "Varchar",
+  },
+]
