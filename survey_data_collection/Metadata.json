@@ -1,0 +1,89 @@
+{
+  "meta" : [
+    {
+      "Columns" : "Timestamp",
+      "Datatype" : "ISO8601 Date/Time String",
+      "Values" : ""
+    },
+    {
+      "Columns" : "Age",
+      "Datatype" : "Varchar",
+      "Values" : [
+        "18-24 years old",
+        "25-34 years old",
+        "35-44 years old",
+        "45-54 years old",
+        "55-64 years old",
+        "65-74 years old",
+        "75 years or older"
+      ]
+    },
+    {
+      "Columns" : "Are you of Hispanic or Latino Origin?",
+      "Datatype" : "Varchar",
+      "Values" : [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "Columns" : "Race",
+      "Datatype" : "Varchar",
+      "Values" : [
+        "American Indian or Alaskan Native",
+        "Asian",
+        "Native Hawaiian or Other Pacific Islander",
+        "Black or African American",
+        "White",
+        "Other"
+      ]
+    },
+    {
+      "Columns" : "Select your highest level of education",
+      "Datatype" : "Varchar",
+      "Values" : [
+        "No schooling completed",
+        "Some high school, no diploma",
+        "High school graduate or equivalent (ex. GED)",
+        "Some college credit, no degree",
+        "trade/technical/vocational training",
+        "Associate degree",
+        "Bachelor's degree",
+        "Master's degree",
+        "Professional degree",
+        "Doctorate degree"
+      ]
+    },
+    {
+      "Columns" : "Marital Status",
+      "Datatype" : "Varchar",
+      "Values" : [
+        "Single, never married",
+        "Married or domestic partnership",
+        "Widowed",
+        "Divorced",
+        "Separated"
+      ]
+    },
+    {
+      "Columns" : "Professional or Employment Status",
+      "Datatype" : "Varchar",
+      "Values" : [
+        "Employed for wage",
+        "Self-employed",
+        "Out of work and currently looking for work",
+        "Out of work but not currently looking for work",
+        "A homemaker",
+        "A student",
+        "Military",
+        "Retired",
+        "Unable to work"
+      ]
+    },
+    {
+      "Columns" : "Country of Residence",
+      "Datatype" : "Char2",
+      "Values" : ""
+    }
+  ]
+}
